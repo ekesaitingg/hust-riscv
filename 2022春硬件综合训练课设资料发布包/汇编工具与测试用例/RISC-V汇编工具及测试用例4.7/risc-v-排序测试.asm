@@ -52,7 +52,7 @@ sort_init:
   sw s0,0(s1)
  addi s0,s0,1
  addi s1,s1,4
-    sw s0,0(s1)
+   sw s0,0(s1)
  addi s0,s0,1
  addi s1,s1,4
    
